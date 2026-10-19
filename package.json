@@ -1,0 +1,11 @@
+{
+  "name": "cafe-customer-order",
+  "version": "1.0.0",
+  "description": "Customer QR Dine-In Ordering App for The Royal Cafe & Bistro",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["cafe", "qr-menu", "customer-ordering"],
+  "author": "damandeeps107-eng",
+  "license": "ISC"
+}
